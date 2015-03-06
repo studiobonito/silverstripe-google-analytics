@@ -1,0 +1,6 @@
+---
+Name: google-analytics
+---
+SiteConfig:
+  extensions:
+    - StudioBonito\SilverStripe\GoogleAnalytics\Extensions\GoogleAnalyticsSiteConfigExtension
