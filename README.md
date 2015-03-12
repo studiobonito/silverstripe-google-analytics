@@ -2,7 +2,7 @@
 
 [![Latest Version](https://img.shields.io/github/release/studiobonito/silverstripe-google-analytics.svg?style=flat-square)](https://github.com/studiobonito/silverstripe-google-analytics/releases)
 [![Software License](https://img.shields.io/badge/license-BSD-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://img.shields.io/travis/studiobonito/silverstripe-google-analytics/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/studiobonito/silverstripe-google-analytics/build-status/master)
+[![Build Status](https://img.shields.io/travis/studiobonito/silverstripe-google-analytics/master.svg?style=flat-square)](https://travis-ci.org/studiobonito/silverstripe-google-analytics)
 [![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/studiobonito/silverstripe-google-analytics.svg?style=flat-square)](https://scrutinizer-ci.com/g/studiobonito/silverstripe-google-analytics/code-structure)
 [![Quality Score](https://img.shields.io/scrutinizer/g/studiobonito/silverstripe-google-analytics.svg?style=flat-square)](https://scrutinizer-ci.com/g/studiobonito/silverstripe-google-analytics)
 [![Total Downloads](https://img.shields.io/packagist/dt/studiobonito/silverstripe-google-analytics.svg?style=flat-square)](https://packagist.org/packages/studiobonito/silverstripe-google-analytics)
