@@ -20,6 +20,11 @@ class GoogleAnalyticsSiteConfigExtension extends \DataExtension
         'GoogleAnalyticsTrackingID' => 'Varchar(16)',
     );
 
+    /**
+     * Update list of fields in SiteConfig. Adds all fields inside `Services` parent tab.
+     *
+     * @param FieldList $fields
+     */
     public function updateCMSFields(FieldList $fields)
     {
         $fields->addFieldsToTab(
