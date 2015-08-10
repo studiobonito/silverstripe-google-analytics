@@ -1,4 +1,4 @@
 en:
   GoogleAnalytics:
-    TRACKINGID: 'Google Analytics Tracking ID'
+    TRACKINGID: 'Tracking ID'
     TRACKINGID_DESC: 'e.g. ''UA-12345678-1'''
