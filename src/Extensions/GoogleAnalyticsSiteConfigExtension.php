@@ -18,27 +18,25 @@ class GoogleAnalyticsSiteConfigExtension extends \DataExtension
      */
     private static $db = array(
         'GoogleAnalyticsTrackingID' => 'Varchar(16)',
-        'GoogleAnalyticsViewID'     => 'Varchar(16)',
     );
 
+    /**
+     * Update list of fields in SiteConfig. Adds all fields inside `Services` parent tab.
+     *
+     * @param FieldList $fields
+     */
     public function updateCMSFields(FieldList $fields)
     {
         $fields->addFieldsToTab(
-            'Root.GoogleAnalytics',
+            'Root.Services.GoogleAnalytics',
             array(
                 $trackingIdTextField = new TextField(
                     'GoogleAnalyticsTrackingID',
-                    _t('GoogleAnalytics.TRACKINGID', 'Google Analytics Tracking ID')
-                ),
-                $viewIdTextField = new TextField(
-                    'GoogleAnalyticsViewID',
-                    _t('GoogleAnalytics.VIEWID', 'Google Analytics View ID')
+                    _t('GoogleAnalytics.TRACKINGID', 'Tracking ID')
                 )
             )
         );
 
         $trackingIdTextField->setDescription(_t('GoogleAnalytics.TRACKINGID_DESC', 'e.g. \'UA-12345678-1\''));
-
-        $viewIdTextField->setDescription(_t('GoogleAnalytics.VIEWID_DESC', 'e.g. \'12345678\''));
     }
 }
