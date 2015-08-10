@@ -27,7 +27,7 @@ class GoogleAnalyticsSiteConfigExtension extends \DataExtension
             array(
                 $trackingIdTextField = new TextField(
                     'GoogleAnalyticsTrackingID',
-                    _t('GoogleAnalytics.TRACKINGID', 'Google Analytics Tracking ID')
+                    _t('GoogleAnalytics.TRACKINGID', 'Tracking ID')
                 )
             )
         );
