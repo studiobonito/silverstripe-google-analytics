@@ -16,3 +16,6 @@ All Notable changes to `studiobonito/silverstripe-google-analytics` will be docu
 
 ### Fixed
 - Added PHPDoc comment for `GoogleAnalyticsSiteConfigExtension->updateCMSFields()`.
+
+[Unreleased]: https://github.com/studiobonito/silverstripe-google-analytics/compare/2.0.0...HEAD
+[2.0.0]: https://github.com/studiobonito/silverstripe-google-analytics/compare/1.0.0...2.0.0
