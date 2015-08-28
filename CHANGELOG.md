@@ -3,6 +3,8 @@
 All Notable changes to `studiobonito/silverstripe-google-analytics` will be documented in this file
 
 ## [Unreleased]
+### Changed
+- Increased the minimum version for `silverstripe-framework` and `silverstripe-cms` to `3.1.2`.
 ### Fixed
 - Removed `branch-alias` from `composer.json`.
 

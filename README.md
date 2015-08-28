@@ -13,7 +13,7 @@ Provide basic Google Analytics integration for SilverStripe CMS.
 
 ## Requirements
 
-- SilverStripe 3.1 or newer.
+- SilverStripe 3.1.2 or newer.
 
 ## Install
 
