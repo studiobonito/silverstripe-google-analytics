@@ -72,7 +72,7 @@ The BSD-2-Clause License. Please see [License File](LICENSE.md) for more informa
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/studiobonito/silverstripe-google-analytics.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/studiobonito/silverstripe-google-analytics.svg?style=flat-square
 
-[link-version]: https://packagist.org/packages/studiobonito/silverstripe-google-analytics
+[link-packagist]: https://packagist.org/packages/studiobonito/silverstripe-google-analytics
 [link-travis]: https://travis-ci.org/studiobonito/silverstripe-google-analytics
 [link-scrutinizer]: https://scrutinizer-ci.com/g/studiobonito/silverstripe-google-analytics/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/studiobonito/silverstripe-google-analytics
