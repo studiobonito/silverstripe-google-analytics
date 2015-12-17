@@ -13,7 +13,7 @@ Provide basic Google Analytics integration for SilverStripe CMS.
 
 ## Requirements
 
-- SilverStripe 3.1.2 or newer.
+- SilverStripe CMS 3.1.2 and newer or 3.2 and newer.
 
 ## Install
 
@@ -65,7 +65,7 @@ If you discover any security related issues, please email support@studiobonito.c
 
 The BSD-2-Clause License. Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/github/release/studiobonito/silverstripe-google-analytics.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/studiobonito/silverstripe-google-analytics.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-BSD-brightgreen.svg?style=flat-square
 [ico-travis]: https://img.shields.io/travis/studiobonito/silverstripe-google-analytics/master.svg?style=flat-square
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/studiobonito/silverstripe-google-analytics.svg?style=flat-square

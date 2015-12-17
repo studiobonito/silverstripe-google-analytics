@@ -1,8 +1,13 @@
 # Changelog
 
-All Notable changes to `studiobonito/silverstripe-google-analytics` will be documented in this file
+All Notable changes to `studiobonito/silverstripe-google-analytics` will be documented in this file.
 
 ## [Unreleased]
+
+## [2.0.2] - 2015-12-17
+### Added
+- Updated module to work with SilverStripe CMS 3.2.
+- Included `.editorconfig` file.
 
 ## [2.0.1] - 2015-09-02
 ### Added
@@ -26,5 +31,6 @@ All Notable changes to `studiobonito/silverstripe-google-analytics` will be docu
 - Added PHPDoc comment for `GoogleAnalyticsSiteConfigExtension->updateCMSFields()`.
 
 [Unreleased]: https://github.com/studiobonito/silverstripe-google-analytics/compare/2.0.1...HEAD
+[2.0.2]: https://github.com/studiobonito/silverstripe-google-analytics/compare/2.0.1...2.0.2
 [2.0.1]: https://github.com/studiobonito/silverstripe-google-analytics/compare/2.0.0...2.0.1
 [2.0.0]: https://github.com/studiobonito/silverstripe-google-analytics/compare/1.0.0...2.0.0
