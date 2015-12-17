@@ -3,6 +3,8 @@
 All Notable changes to `studiobonito/silverstripe-google-analytics` will be documented in this file
 
 ## [Unreleased]
+### Added
+- Updated module to work with SilverStripe CMS 3.2.
 
 ## [2.0.1] - 2015-09-02
 ### Added
